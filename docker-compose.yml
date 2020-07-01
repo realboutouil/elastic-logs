@@ -56,8 +56,3 @@ services:
     container_name: elk-kibana
     depends_on:
       - elasticsearch
-
-networks:
-  peaqock-network:
-    external: false
-    name: peaqock-network
