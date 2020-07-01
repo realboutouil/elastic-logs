@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3d8ed99d-9051-459e-a5b2-f9cd7f609de7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logstash/pipeline/logstash.conf" beforeDir="false" afterPath="$PROJECT_DIR$/logstash/pipeline/logstash.conf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +48,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1593639352187</updated>
-      <workItem from="1593639353569" duration="1182000" />
+      <workItem from="1593639353569" duration="2225000" />
     </task>
     <servers />
   </component>
