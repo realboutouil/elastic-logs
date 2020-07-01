@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: api-service-4
+
+server:
+  port: 39000
