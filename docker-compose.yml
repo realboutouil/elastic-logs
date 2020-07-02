@@ -39,7 +39,7 @@ services:
       - $PWD/logstash/config/logstash.yml:/usr/share/logstash/config/logstash.yml
       - $PWD/logstash/pipeline:/usr/share/logstash/pipeline
     ports:
-      - "35000:35000"
+      - "9600:9600"
     environment:
       LS_JAVA_OPTS: "-Xmx1024m -Xms256m"
     container_name: elk-logstash
